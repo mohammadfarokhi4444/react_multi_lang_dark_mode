@@ -1,0 +1,59 @@
+{
+  "login": {
+    "title": "ورود",
+    "greeting": "خوش آمدید",
+    "companyPanel": "پنل ادمین ",
+    "username": "نام کاربری",
+    "password": "رمزعبور",
+    "required": "الزامی است"
+  },
+  "header": {
+    "title": "صفا رایانه"
+  },
+  "notFound": {
+    "notFound": "صفحه مورد نظر یافت نشد",
+    "404": "404"
+  },
+  "weather": {
+    "windspeed": "سرعت وزش باد",
+    "city": "شهر"
+  },
+  "todoList": {
+    "todoList": "Todo-List"
+  },
+  "profile": {
+    "userName": "نام کاربری",
+    "saveChange": "ذخیره",
+    "theme": "پوسته",
+    "lang": "زبان",
+    "light": "حالت روشن",
+    "dark": "حالت تیره",
+    "en": "انگلیسی",
+    "fa": "فارسی"
+  },
+  "sidebar": {
+    "dashboard": "داشبورد",
+    "weather": "آب و هوا",
+    "todoList": "لیست کارها",
+    "logout": "خروج",
+    "profile": "پروفایل"
+  },
+  "all": {
+    "error": "خطا",
+    "success": "موفق",
+    "noData": "محتوایی یافت نشد",
+    "delete": "آیا از حذف ایتم مطمئن هستید ؟",
+    "recovery": "امکان بازیابی وجود ندارد",
+    "edit": "ویرایش",
+    "back": "بازگشت",
+    "create": "ایجاد",
+    "required": "الزامی است",
+    "PasswordInvalid": "باید شامل 5 کاراکتر، یک حرف بزرگ، یک حرف کوچک و یک عدد باشد"
+  },
+  "dashboard": {
+    "title": "داشبورد",
+    "goodMorning": "صبح بخیر",
+    "goodAfternoon": "ظهر بخیر",
+    "goodEvning": "عصر بخیر"
+  }
+}

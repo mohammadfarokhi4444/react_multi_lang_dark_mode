@@ -1,0 +1,59 @@
+{
+  "login": {
+    "title": "LOGIN",
+    "greeting": "Welcome",
+    "companyPanel": "Admin Panel",
+    "username": "username",
+    "password": "password",
+    "required": "required"
+  },
+  "header": {
+    "title": "Safa Rayaneh"
+  },
+  "notFound": {
+    "notFound": "Page Not Found",
+    "404": "404"
+  },
+  "weather": {
+    "windspeed": "Windspeed is",
+    "city": "City"
+  },
+  "todoList": {
+    "todoList": "Todo-List"
+  },
+  "profile": {
+    "userName": "Username",
+    "saveChange": "save change",
+    "theme": "Theme",
+    "lang": "Language",
+    "light": "Light Mode",
+    "dark": "Dark Mode",
+    "en": "English",
+    "fa": "Persian"
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "weather": "Weather",
+    "todoList": "Todo-List",
+    "logout": "Sign Out",
+    "profile": "Profile"
+  },
+  "all": {
+    "error": "Error",
+    "success": "Success",
+    "noData": "No Data Found",
+    "delete": "Are you sure to delete item ?",
+    "recovery": "You can not recovery",
+    "edit": "Edit",
+    "back": "Back",
+    "create": "Create",
+    "required": "required",
+    "PasswordUnvalid": "Must Contain 5 Characters, One Uppercase, One Lowercase and One Number"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "goodMorning": "Good Morning",
+    "goodAfternoon": "Good Afternoon",
+    "goodEvning": "Good Evning"
+  }
+}
